@@ -1,6 +1,6 @@
 ## **PT-BR**
 
-<h1 style="border-bottom: none" align="center"> Olá!, eu sou <strong style="border-bottom: none">Victor Gabriel</strong> 👋</h1>
+<h1 style="border-bottom: none" align="center"> Olá!, eu sou <strong style="border-bottom: none">Victor Gabriel </strong> 👋</h1>
 
 <div align="center">
   <a href="https://github.com/VictorBuarque">
