@@ -3,7 +3,7 @@
 ### I am **Victor Gabriel**  
 
 ### I'm a Brazilian software engineer living in Brazil! 🇧🇷
-- 👨‍💻 Frontend Engineer at: [@kreatives.io](https://github.com/kreatives-io)
+- 👨‍💻 Front end Engineer at: [@kreatives.io](https://github.com/kreatives-io)
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBuarque&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
