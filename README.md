@@ -4,7 +4,7 @@
 
 ### I am **Victor Gabriel**
 
-### I'm a Brazilian software engineer living in Brazil! 🇧🇷
+### Brazilian software engineer living in Brazil! 🇧🇷
 - 👨‍💻 Front end Engineer at: [@kreatives.io](https://github.com/kreatives-io)
 
 <div align="center">
