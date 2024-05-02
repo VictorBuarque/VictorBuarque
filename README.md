@@ -36,3 +36,7 @@
   <a href="mailto:vcgabriel38@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-gabriel-reis-buarque-da-silva-905698182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div align="center">
+<a href="https://app.daily.dev/victorgabriel"><img src="https://api.daily.dev/devcards/v2/am1o54JGPBjxtqvbHF7fT.png?type=wide&r=40f" width="652" alt="Victor Gabriel's Dev Card"/></a>  
+</div>
