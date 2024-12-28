@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves creating 
 ### Brazilian software engineer living in Brazil! 🇧🇷
 - 👨‍💻 Front end Engineer at: [@kreatives.io](https://github.com/kreatives-io)
 
-- 
-
 <div>
   <a href="https://app.daily.dev/victorgabriel"><img src="https://api.daily.dev/devcards/v2/am1o54JGPBjxtqvbHF7fT.png?type=wide&r=xee" width="652" alt="Victor Gabriel's Dev Card"/></a>
 </div>
