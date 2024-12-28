@@ -1,17 +1,13 @@
-# Hi there, I'm VictorBuarque! 👋
+# Hi there, I'm VictorBuarque! 👋 🇧🇷
 
 Welcome to my GitHub profile! I'm a passionate web developer who loves creating beautiful and efficient web applications. Here's a little bit about me:
 
 ## 🚀 About Me
-
-- 🌱 I’m currently diving deeper into full-stack development.
+- 👨‍💻 Front end Engineer at: [@kreatives.io](https://github.com/kreatives-io)
+- 🌱 I’m currently diving deeper into full-stack development and english learning.
 - 👯 I’m looking to collaborate on innovative web projects.
 - 💬 Ask me about web development, JavaScript frameworks, and responsive design.
 - 📫 How to reach me: [vcgabriel38@gmail.com](mailto:vcgabriel38@gmail.com)
-
-
-### Brazilian software engineer living in Brazil! 🇧🇷
-- 👨‍💻 Front end Engineer at: [@kreatives.io](https://github.com/kreatives-io)
 
 <div>
   <a href="https://app.daily.dev/victorgabriel"><img src="https://api.daily.dev/devcards/v2/am1o54JGPBjxtqvbHF7fT.png?type=wide&r=xee" width="652" alt="Victor Gabriel's Dev Card"/></a>
