@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves creating 
 
 ## 🚀 About Me
 - 👨‍💻 Front end Engineer at: [@kreatives.io](https://github.com/kreatives-io)
-- 🌱 I’m currently diving deeper into full-stack development and english learning.
+- 🌱 I’m currently diving deeper into full-stack development, mobile development (React Native) and english learning.
 - 👯 I’m looking to collaborate on innovative web projects.
 - 💬 Ask me about web development, JavaScript frameworks, and responsive design.
 - 📫 How to reach me: [vcgabriel38@gmail.com](mailto:vcgabriel38@gmail.com)
