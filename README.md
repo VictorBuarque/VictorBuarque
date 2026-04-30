@@ -58,7 +58,7 @@ AI-powered ticketing platform with blockchain-based verification and a mobile-fi
 - Focused on performance optimization and UI scalability  
 
 **Tech Stack**  
-React, Next.js, TypeScript, TailwindCSS  
+React, React Native, Next.js, TypeScript, TailwindCSS, Clerk, Sanity, ThirdWeb 
 
 **Impact**  
 - Improved usability across mobile devices  
@@ -81,7 +81,7 @@ Membership-based platform where users access exclusive content through paid subs
 - Focused on onboarding experience and engagement  
 
 **Tech Stack**  
-Next.js, React, TailwindCSS  
+Next.js, React, Clerk, TailwindCSS  
 
 **Impact**  
 - Enabled subscription-based business model  
