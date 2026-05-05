@@ -1,11 +1,12 @@
 # Hey, I'm Victor Buarque 👋 🇧🇷
 
-Front-end Engineer focused on building scalable, high-performance and user-centered digital products.
+Full Stack Engineer specialized in front-end, focused on building scalable, high-performance and user-centered digital products.
 
 ## 🚀 About Me
 
-- 👨‍💻 Front-end Engineer at **Kreatives.io**
+- 👨‍💻 Full Stack Engineer at **Kreatives.io**
 - ⚛️ Specialized in **React, Next.js and modern front-end architecture**
+- 🧩 Experience across the full stack, from UI to backend integrations
 - 📱 Developing cross-platform mobile apps using **React Native**
 - 🌐 Improving my English for global opportunities
 - 🤝 Open to collaborate on innovative and impactful projects
@@ -18,6 +19,7 @@ Front-end Engineer focused on building scalable, high-performance and user-cente
 - Create high-performance and responsive interfaces  
 - Develop mobile-first applications  
 - Integrate complex APIs and business rules  
+- Work across the stack when needed (frontend + backend)  
 - Improve UX/UI with clean and efficient code  
 
 ---
@@ -34,9 +36,6 @@ Front-end Engineer focused on building scalable, high-performance and user-cente
 <img alt="TailwindCSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img alt="Sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-<img alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>
 
