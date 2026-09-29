@@ -45,6 +45,7 @@ Mid-Level Full Stack Engineer & Tech Lead, focused on building scalable, high-pe
 
 ### 🔥 Brasmaquinas Digital Ecosystem & IT Operations  
 🔗 https://www.brasmaquinas.com.br
+
 🔗 https://github.com/brasmaquinas-guanambi
 
 **Overview**  
