@@ -44,7 +44,8 @@ Mid-Level Full Stack Engineer & Tech Lead, focused on building scalable, high-pe
 ## ⭐ Highlight Projects
 
 ### 🔥 Brasmaquinas Digital Ecosystem & IT Operations  
-🔗 *Client Project via Kreatives.io*  
+🔗 https://www.brasmaquinas.com.br
+🔗 https://github.com/brasmaquinas-guanambi
 
 **Overview**  
 Comprehensive digital modernization and IT infrastructure management for an industrial enterprise, connecting web applications with corporate ERP, CRM, and internal tracking.
