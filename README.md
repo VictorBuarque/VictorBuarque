@@ -1,14 +1,14 @@
 # Hey, I'm Victor Buarque 👋 🇧🇷
 
-Full Stack Engineer specialized in front-end, focused on building scalable, high-performance and user-centered digital products.
+Mid-Level Full Stack Engineer & Tech Lead, focused on building scalable, high-performance digital products and managing robust web ecosystems and IT infrastructure.
 
 ## 🚀 About Me
 
-- 👨‍💻 Full Stack Engineer at **Kreatives.io**
-- ⚛️ Specialized in **React, Next.js and modern front-end architecture**
-- 🧩 Experience across the full stack, from UI to backend integrations
+- 👨‍💻 Mid-Level Full Stack Engineer & Tech Lead at **Kreatives.io** (Alocado na Brasmaquinas)
+- ⚛️ Specialized in **React, Next.js, TypeScript, and modern front-end architecture**
+- 🧩 Experience across the full stack, from UI and database integration to IT operations and team leadership
 - 📱 Developing cross-platform mobile apps using **React Native**
-- 🌐 Improving my English for global opportunities
+- 🌐 Proficient in English for global opportunities
 - 🤝 Open to collaborate on innovative and impactful projects
 
 ---
@@ -17,9 +17,9 @@ Full Stack Engineer specialized in front-end, focused on building scalable, high
 
 - Build scalable and maintainable front-end architectures  
 - Create high-performance and responsive interfaces  
-- Develop mobile-first applications  
-- Integrate complex APIs and business rules  
-- Work across the stack when needed (frontend + backend)  
+- Lead multidisciplinary teams and govern engineering workflows  
+- Bridge software development with IT infrastructure and corporate systems  
+- Integrate complex APIs, ERPs (Sankhya), and CRMs (Ploomes)  
 - Improve UX/UI with clean and efficient code  
 
 ---
@@ -34,14 +34,35 @@ Full Stack Engineer specialized in front-end, focused on building scalable, high
 <img alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img alt="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="TailwindCSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img alt="Sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+<img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 </div>
 
 ---
 
 ## ⭐ Highlight Projects
+
+### 🔥 Brasmaquinas Digital Ecosystem & IT Operations  
+🔗 *Client Project via Kreatives.io*  
+
+**Overview**  
+Comprehensive digital modernization and IT infrastructure management for an industrial enterprise, connecting web applications with corporate ERP, CRM, and internal tracking.
+
+**My Contributions**  
+- Conceived and delivered web architecture including landing pages with Sanity CMS, a developer portal integrated with Sankhya ERP, and a customer service (SAC) center integrated with Ploomes CRM  
+- Developed an internal *Operations Dashboard* to monitor developer/technician performance, tracking 300+ support metrics and shifting workflows from Linear to GitHub Issues  
+- Led a multidisciplinary team (3–4 collaborators) and coordinated hardware procurement, software migrations (Microsoft Outlook, Teams, SharePoint), and IT operations  
+
+**Tech Stack**  
+Next.js, TypeScript, Tailwind CSS, Sanity CMS, Sankhya ERP, Ploomes CRM, Node.js, PostgreSQL  
+
+**Impact**  
+- Centralized customer support and business operations into unified digital portals  
+- Streamlined internal workflow tracking and team productivity metrics  
+- Modernized corporate infrastructure and software stack  
+
+---
 
 ### 🔥 Chaintix Platform  
 🔗 https://www.chaintix.co/  
@@ -57,7 +78,7 @@ AI-powered ticketing platform with blockchain-based verification and a mobile-fi
 - Focused on performance optimization and UI scalability  
 
 **Tech Stack**  
-React, React Native, Next.js, TypeScript, TailwindCSS, Clerk, Sanity, ThirdWeb 
+React, React Native, Next.js, TypeScript, TailwindCSS, Clerk, Sanity, ThirdWeb  
 
 **Impact**  
 - Improved usability across mobile devices  
