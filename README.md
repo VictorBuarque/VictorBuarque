@@ -4,7 +4,7 @@ Mid-Level Full Stack Engineer & Tech Lead, focused on building scalable, high-pe
 
 ## 🚀 About Me
 
-- 👨‍💻 Mid-Level Full Stack Engineer & Tech Lead at **Kreatives.io**
+- 👨‍💻 Mid-Level Full Stack Engineer at **Kreatives.io**
 - ⚛️ Specialized in **React, Next.js, TypeScript, and modern front-end architecture**
 - 🧩 Experience across the full stack, from UI and database integration to IT operations and team leadership
 - 📱 Developing cross-platform mobile apps using **React Native**
