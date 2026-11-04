@@ -1,6 +1,6 @@
 # Hey, I'm Victor Buarque 👋 🇧🇷
 
-Mid-Level Full Stack Engineer & Tech Lead, focused on building scalable, high-performance digital products and managing robust web ecosystems and IT infrastructure.
+Mid-Level Full Stack Engineer focused on building scalable, high-performance digital products and managing robust web ecosystems and IT infrastructure.
 
 ## 🚀 About Me
 
